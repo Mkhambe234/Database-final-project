@@ -1,3 +1,4 @@
+/*SPORTS CLUB MANAGEMENT SYSTEM*/
 -- 1. Members Table
 CREATE TABLE members (
     member_id INT PRIMARY KEY AUTO_INCREMENT,
